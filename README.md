@@ -86,4 +86,4 @@ public async Task<IActionResult> AddTemperatureAsync([FromQuery]WeatherForecast 
 
 ### License
 
-React is [MIT licensed](./LICENSE).
+[MIT licensed](./LICENSE).
